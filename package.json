@@ -4,7 +4,7 @@
   "description": "Angular2+ component that provides a banner to inform users about cookie law",
   "repository": {
     "type": "git",
-    "url": "https://github.com/andreasonny83/angular2-cookie-law.git"
+    "url": "https://github.com/hexmarkrecords/angular2-cookie-law.git"
   },
   "keywords": [
     "ng",
@@ -44,7 +44,6 @@
     "@angular/compiler": "^6.1.10",
     "@angular/core": "^6.1.10",
     "@angular/forms": "^6.1.10",
-    "@angular/http": "^6.1.10",
     "@angular/platform-browser": "^6.1.10",
     "@angular/platform-browser-dynamic": "^6.1.10",
     "@angular/router": "^6.1.10",
